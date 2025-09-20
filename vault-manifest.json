@@ -152,9 +152,11 @@
         6
       ],
       "dataRepos": [
-        "louis1_data_0"
+        "louis1_data_0",
+        "louis1_data_1",
+        "louis1_data_2"
       ],
-      "activeDataRepo": "louis1_data_0"
+      "activeDataRepo": "louis1_data_2"
     }
   ],
   "files": []
