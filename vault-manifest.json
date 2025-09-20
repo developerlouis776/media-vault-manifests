@@ -307,9 +307,10 @@
       ],
       "dataRepos": [
         "test1_data_0",
-        "test1_data_1"
+        "test1_data_1",
+        "test1_data_2"
       ],
-      "activeDataRepo": "test1_data_1"
+      "activeDataRepo": "test1_data_2"
     }
   ],
   "files": []
